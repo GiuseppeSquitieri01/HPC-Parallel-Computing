@@ -1,8 +1,7 @@
 # Progetto VF2++ - Implementazione Seriale e Parallela MPI
 
 ## Informazioni sul progetto
-- **Studente:** Giuseppe Squitieri – Matricola: 0622702339 – Email: g.squitieri8@studenti.unisa.it  
-- **Docente:** Prof. Francesco Moscato – Email: fmoscato@unisa.it  
+- **Studente:** Giuseppe Squitieri
 - **Titolo dell’assegnazione:** High Performance Computing – Implementazione e Ottimizzazione dell’Algoritmo VF2++ per Graph Isomorphism  
 - **Anno Accademico:** 2024/2025  
 
